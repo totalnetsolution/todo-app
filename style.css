@@ -1,0 +1,9 @@
+body {
+    background-image: url('./image/giphy-msba.gif'); /* Replace 'your-background-image.gif' with the path to your GIF image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  .container {
+    margin-top: 100px;
+  }
